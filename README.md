@@ -21,7 +21,7 @@ Esse repositório é um projeto do bootcamp Angular Developer da
  * Angular 9
  * bootstrap jquery
 
-## Instale as dependencias o angular globalmente ou só no projeto com os comandos abaixo
+## Instale as dependencias o angular global ou localmente 
 
 `npm install -g @angular/cli@9.0.0-rc.7`
 
@@ -33,7 +33,7 @@ Esse repositório é um projeto do bootcamp Angular Developer da
 
 ## Execute o frontend:
 
-com o comando `ng serve`
+ `ng serve -open`
 
 porta -> [localhost:4200](http://localhost:4200/)
 
