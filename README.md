@@ -21,9 +21,9 @@ Esse repositório é um projeto do bootcamp Angular Developer da
  * Angular 9
  * bootstrap jquery
 
-## Instale as dependencias o angular global ou localmente 
+## Instale as dependencias do angular global ou localmente 
 
-`npm install -g @angular/cli@9.0.0-rc.7`
+`npm i`
 
 `npm install`
 
