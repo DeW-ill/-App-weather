@@ -46,7 +46,7 @@ porta -> [localhost:4200](http://localhost:4200/)
 <h1 align="center">Meu perfil no linkedin</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/will-freittas/">
-  <img src="https://blogs.ohsu.edu/occupational-health-sciences/files/2020/06/linkedinlogo-831x424.jpg" title="Will Freittas" width="200" height="80"
+  <img src="https://blogs.ohsu.edu/occupational-health-sciences/files/2020/06/linkedinlogo-831x424.jpg" title="Will Freittas" width="160" height="80">
 
 ![](https://img.shields.io/github/stars/WdvOps/App-weather) ![](https://img.shields.io/github/forks/WdvOps/App-weather) ![GitHub followers](https://img.shields.io/github/followers/WdvOps?style=social)
 
