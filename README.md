@@ -18,7 +18,7 @@ Esse repositório é um projeto do bootcamp Angular Developer da
 
 ## Stack utilizada no frontend:
 
- * Angular 9
+ * Angular 11
  * bootstrap jquery
 
 ## Instale as dependencias do angular global ou localmente 
