@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "alos-weather"
+  "defaultProject": "alos-weather",
+  "cli": {
+    "analytics": "4c71939b-7848-4562-bf64-4161b5012c3d"
+  }
 }
